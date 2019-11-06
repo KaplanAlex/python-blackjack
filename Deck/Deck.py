@@ -1,5 +1,4 @@
 """
-Wove Programming Exercise - Blackjack
 Alex Kaplan
 1/13/18
 
